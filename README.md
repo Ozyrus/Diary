@@ -1,0 +1,2 @@
+# Diary
+JAICP Diary Project
